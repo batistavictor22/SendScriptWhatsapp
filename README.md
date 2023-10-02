@@ -3,7 +3,7 @@ Mandar qualquer mensagem linha por linha no whatsapp
 
 
 # Utilização
-Abra SendScriptWhatsapp.js
+Abra @ SendScriptWhatsapp.js
 
 Copie todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)
 
