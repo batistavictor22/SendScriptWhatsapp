@@ -11,7 +11,7 @@ Cole no seu bloco de notas, edite colocando a mensagem que você quiser
 
  ***Observe que** a mensagem será enviada linha por linha, portanto você pode adicionar por exemplo a mensagem repetidas vezes, quantas vezes quiser.
 
-No WhatsApp Web abra o console do Browser
+No WhatsApp Web abra o console do Browser (Ctrl + Shift + J)
 
 Cole o código no console e aperte Enter
 
